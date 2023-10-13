@@ -17,6 +17,8 @@ function App() {
       <div class="row justify-content-center nav2">
        <Navbar2/>
       </div>
+
+      
       <div class="row">
        <Slider/>
       </div>
